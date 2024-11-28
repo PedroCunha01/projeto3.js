@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container h1 {
+    font-size: 70px;
+}
+
+.container h2 {
+    font-size: 35px;
+    margin-left: 10px;
+}
+
+.container{
+    padding: 2px;
+    margin: 270px;
+
+}
+
+#valid-form button{
+    background-color: green;
+    display: block;
+    margin-bottom: 40px;
+    cursor: pointer;
+    width: 80px;
+    border: none;
+    height: 40px;
+    margin-left: 118px;
+    margin-top: 15px;
+
+
+}
+
+#valid-form {
+    display: block;
+    width: 3px;
+}
+
+#campo-A,
+#campo-B{
+    width: 300px;
+    height: 30px;
+    padding: 20px;
+    margin: 10px;
+
+}
